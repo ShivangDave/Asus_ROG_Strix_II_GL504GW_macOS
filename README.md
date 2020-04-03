@@ -2,7 +2,7 @@
 
 Working:
 - Intel UHD 630
-- WiFi DW1820A
+- WiFi + Bluetooth DW1820A
 - ELAN1200 Trackpad with gestures
 - Keyboard
 - Native Brightness Control
