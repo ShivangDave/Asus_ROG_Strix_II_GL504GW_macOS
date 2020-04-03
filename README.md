@@ -10,6 +10,9 @@ Working:
 - UVC Webcam
 - Audio: ALC294
 
+Partial:
+- Sidecar: Only works with wired connection
+
 Not Working:
 - RTX 2070 [ HDMI, DisplayPort ]
 - RGB Control
